@@ -1,6 +1,6 @@
 <img src="docs/basset_image.png" width="200">
 
-# Basenji
+# Basenji - Testing the upstream link with .... this change is in public github
 #### Sequential regulatory activity predictions with deep convolutional neural networks.
 
 Basenji provides researchers with tools to:
